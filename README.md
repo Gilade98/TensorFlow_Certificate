@@ -33,6 +33,7 @@ I am following the official TensorFlow website's recommended resource on Courser
 - **Official Documentation**: [TensorFlow Documentation](https://www.tensorflow.org/)
 - **Certification Information**: [TensorFlow Certificate](https://www.tensorflow.org/certificate)
 - **Online Courses**: [TensorFlow on Coursera](https://www.coursera.org/specializations/tensorflow-in-practice)
+- **Official Courses GitHub by DeapLearning.ai**: (https://github.com/https-deeplearning-ai/tensorflow-1-public)
 
 
 
