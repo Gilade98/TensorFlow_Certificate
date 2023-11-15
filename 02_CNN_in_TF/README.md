@@ -1,9 +1,9 @@
 Convolutional Neural Networks in TensorFlow
 
-https://www.coursera.org/learn/convolutional-neural-networks-tensorflow/ \n
+https://www.coursera.org/learn/convolutional-neural-networks-tensorflow/
 
-Working with Transfer Learning:\n
-1 - imports\n
+Working with Transfer Learning:
+1 - imports
 2 - load data
 3 - explore the data
 4 - create generators
