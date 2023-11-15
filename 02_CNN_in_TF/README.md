@@ -10,8 +10,8 @@ Working with Transfer Learning: <br>
 3 - explore the data  
 4 - create generators  
 5 - create pretrained model  
-  >5.1 - download weights  
-  >5.2 - instantiate model  
+  -5.1 - download weights  
+  -5.2 - instantiate model  
 6 - create callback  
 7 - pipline pretrained with own layers  
 8 - compile model  
