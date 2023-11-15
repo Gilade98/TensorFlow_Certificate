@@ -3,7 +3,7 @@ Convolutional Neural Networks in TensorFlow
 https://www.coursera.org/learn/convolutional-neural-networks-tensorflow/  
 
 
-Working with Transfer Learning:  
+Working with Transfer Learning: <br> 
 
 1 - imports  
 
